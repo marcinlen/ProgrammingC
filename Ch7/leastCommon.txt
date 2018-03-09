@@ -1,0 +1,3 @@
+The least common multiple of 10 and 15 is 30
+The least common multiple of 4 and 5 is 20
+The least common multiple of 22 and 37 is 814
